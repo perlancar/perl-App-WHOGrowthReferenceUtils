@@ -1,6 +1,8 @@
 package App::WHOGrowthReferenceUtils;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
@@ -16,5 +18,8 @@ This distributions provides the following command-line utilities:
 =head1 SEE ALSO
 
 L<WHO::GrowthReference::Table>
+
+These distributions also have some CLIs: L<WHO::GrowthReference::GenTable>,
+L<WHO::GrowthReference::GenChart>.
 
 =cut
